@@ -28,22 +28,5 @@ During my internship at STRATPOINT TECHNOLOGIES, I engaged in a range of TypeScr
 8. **Integration of TypeScript with Frameworks**
    - Implemented TypeScript in various frameworks and environments, including React, Node.js, and React Native.
 
-## Getting Started
 
-1. **Prerequisites**: A fundamental understanding of JavaScript is required.
-2. **Setup**: Ensure that Node.js and TypeScript are installed on your development environment.
-3. **Exercises**: Engage in coding challenges and project tasks provided throughout the internship.
-
-## Resources
-
-- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
-- [TypeScript Playground](https://www.typescriptlang.org/play)
-
-## Contact Information
-
-For further information or assistance, please contact the internship coordinator at STRATPOINT TECHNOLOGIES.
-
----
-
-This document is intended to outline the scope of my TypeScript internship activities and provide a professional summary of the skills and knowledge acquired.
 
